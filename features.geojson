@@ -1,0 +1,3823 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90013",
+        "street": "1350 Palmetto St",
+        "keywords": "Standing sets, Warehouse",
+        "city": "Los Angeles",
+        "name": "Willow Studios",
+        "phone": "(310) 849-5452",
+        "state": "CA",
+        "type": "Standing Sets",
+        "website": "http://www.willowstudios.net/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.230974,
+          34.040321
+        ],
+        "type": "Point"
+      },
+      "id": "03366389aba665a8139ffe105e0d8940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91505",
+        "street": "411 N Hollywood Way Blvd",
+        "keywords": "Sound Stage, Tanks",
+        "city": "Burbank",
+        "name": "Warner Bros. Ranch",
+        "phone": "(818) 977-5232",
+        "state": "CA",
+        "type": "Studio",
+        "website": "https://studiooperations.warnerbros.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.343997,
+          34.158177
+        ],
+        "type": "Point"
+      },
+      "id": "03480a417dcb555bc4a34d286da381fe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90021",
+        "street": "1340 E 6th St Suite 104",
+        "keywords": "Photography",
+        "city": "Los Angeles",
+        "name": "Concrete Studios LA",
+        "phone": "(213) 537-0524",
+        "state": "CA",
+        "type": "Photography Studio",
+        "website": "http://www.concretestudiosla.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.233417,
+          34.037796
+        ],
+        "type": "Point"
+      },
+      "id": "044e4288803dd7673e7e052020ed0e50"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90015",
+        "street": "214 W 14th St",
+        "keywords": "Stage",
+        "city": "Los Angeles",
+        "name": "Green Screen Downtown",
+        "phone": "(323) 907-2044",
+        "state": "CA",
+        "type": "Stage",
+        "website": "http://www.greenscreendowntown.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.263263,
+          34.036369
+        ],
+        "type": "Point"
+      },
+      "id": "0457fe9360edf4774c70ad16561b8c52"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90028",
+        "street": "1437 Gordon St",
+        "keywords": "Stage",
+        "city": "Los Angeles",
+        "name": "Sunset Gower Studios",
+        "phone": "(323) 467-1001",
+        "state": "CA",
+        "type": "Studio",
+        "website": "https://www.sunsetstudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.320855,
+          34.096651
+        ],
+        "type": "Point"
+      },
+      "id": "04bf604dfc640efb6f76c53c258a104e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "30315",
+        "street": "175 Lakewood Way SW",
+        "keywords": "Studio",
+        "city": "Atlanta",
+        "name": "EUE Screen Gems - Atlanta",
+        "phone": "",
+        "state": "GA",
+        "type": "Studio",
+        "website": "https://euescreengems.com/atlanta-studio/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -84.395965,
+          33.701662
+        ],
+        "type": "Point"
+      },
+      "id": "051dddc6dd51b258d2467cb320e0f713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91355",
+        "street": "28458 Westinghouse Pl",
+        "keywords": "Airplane",
+        "city": "Santa Clarita",
+        "name": "Air Hollywood",
+        "phone": "(818) 890-0444",
+        "state": "CA",
+        "type": "Aircraft",
+        "website": "http://www.airhollywood.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.595265,
+          34.442011
+        ],
+        "type": "Point"
+      },
+      "id": "07e2ef8ab70aa6a6dcfccb80b9016bbc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90265",
+        "street": "327 Latigo Canyon Rd",
+        "keywords": "Ranch, Barn, Parking, Wedding",
+        "city": "Malibu",
+        "name": "Calamigos Ranch",
+        "phone": "(818) 889-6280",
+        "state": "CA",
+        "type": "Ranch",
+        "website": "http://www.calamigos.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.817031,
+          34.092323
+        ],
+        "type": "Point"
+      },
+      "id": "07e37e7ad52213c978b54e3f30f8999a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91367",
+        "street": "6431 Independence Ave",
+        "keywords": "Stage",
+        "city": "Woodland Hills",
+        "name": "Independence Studio",
+        "phone": "(818) 788-3467",
+        "state": "CA",
+        "type": "Stage",
+        "website": "http://www.independencestudio.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.590995,
+          34.187648
+        ],
+        "type": "Point"
+      },
+      "id": "085b9305c6d86d3d7406e7812b0c2e43"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91361",
+        "street": "1388 W Potrero Rd",
+        "keywords": "Ranch, Horse Barn",
+        "city": "Thousand Oaks",
+        "name": "Greenfield Ranch",
+        "phone": "",
+        "state": "CA",
+        "type": "Ranch",
+        "website": "https://www.facebook.com/pages/Greenfield-Ranch/121874491202711",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.911823,
+          34.152995
+        ],
+        "type": "Point"
+      },
+      "id": "0a8ab39bddc6c290afee5a2d08d436b9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "93040",
+        "street": "3700 Piru Canyon Rd",
+        "keywords": "Ranch, Lake Piru",
+        "city": "Piru",
+        "name": "Rancho Temescal",
+        "phone": "(805) 521-0511",
+        "state": "CA",
+        "type": "Ranch",
+        "website": "http://ranchotemescal.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.760528,
+          34.454536
+        ],
+        "type": "Point"
+      },
+      "id": "0ae6f87c036a443ea750991b780dc2be"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91352",
+        "street": "8421 Lankershim Blvd",
+        "keywords": "Wedding, Event Space",
+        "city": "Sun Valley",
+        "name": "H Studio",
+        "phone": "(800) 242-8992",
+        "state": "CA",
+        "type": "Art Gallery",
+        "website": "http://www.hstudio.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.388062,
+          34.223969
+        ],
+        "type": "Point"
+      },
+      "id": "0ce00ce1b96246ce09fe275774bef32d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90038",
+        "street": "6309 Eleanor Ave",
+        "keywords": "Stage",
+        "city": "Los Angeles",
+        "name": "BLT Studios and Soundstages",
+        "phone": "(323) 391-1991",
+        "state": "CA",
+        "type": "Stage",
+        "website": "https://bltsoundstages.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.326694,
+          34.090236
+        ],
+        "type": "Point"
+      },
+      "id": "0cff80c34db9ae78b221e4d9536b8012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91342",
+        "street": "13207 Bradley Ave",
+        "keywords": "Stage",
+        "city": "Sylmar",
+        "name": "Quixote Studios - Sylmar",
+        "phone": "(323) 851-5030",
+        "state": "CA",
+        "type": "Stage",
+        "website": "https://quixote.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.46724,
+          34.310192
+        ],
+        "type": "Point"
+      },
+      "id": "10768d0e1c33684d9a4384fbc456633c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90065",
+        "street": "2800 Division St",
+        "keywords": "Stage",
+        "city": "Los Angeles",
+        "name": "L.A. River Studios",
+        "phone": "(310) 535-5510",
+        "state": "CA",
+        "type": "Stage",
+        "website": "http://www.lariverstudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.236872,
+          34.102256
+        ],
+        "type": "Point"
+      },
+      "id": "114e3e231673d78f7776e13744d85234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "92801",
+        "street": "1181 N Knollwood Cir",
+        "keywords": "Standing sets",
+        "city": "Anaheim",
+        "name": "Silver Dream Factory",
+        "phone": "(714) 836-1853",
+        "state": "CA",
+        "type": "Standing Sets",
+        "website": "http://www.silverdreamfactory.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -117.979846,
+          33.849957
+        ],
+        "type": "Point"
+      },
+      "id": "1166a29922c0b99dd407be8c35231092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90013",
+        "street": "1333 Willow St",
+        "keywords": "Warehouse",
+        "city": "Los Angeles",
+        "name": "1333 Willow",
+        "phone": "",
+        "state": "CA",
+        "type": "Warehouse",
+        "website": "http://www.1333willow.com/index.htm",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.231667,
+          34.039644
+        ],
+        "type": "Point"
+      },
+      "id": "12ad459f737fa531236e528345e7e49f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91302",
+        "street": "26800 Mulholland Hwy",
+        "keywords": "Ranch, Mansion",
+        "city": "Calabasas",
+        "name": "King Gillette Ranch",
+        "phone": "",
+        "state": "CA",
+        "type": "Ranch",
+        "website": "https://mrca.ca.gov/parks/park-listing/king-gillette-ranch/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.704745,
+          34.101954
+        ],
+        "type": "Point"
+      },
+      "id": "130cef4e0ce3294af4337f1dc0f76249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90232",
+        "street": "9336 Washington Blvd",
+        "keywords": "Stage",
+        "city": "Culver City",
+        "name": "The Culver Studios",
+        "phone": "(310) 202-1234",
+        "state": "CA",
+        "type": "Stage",
+        "website": "http://theculverstudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.39231,
+          34.02421
+        ],
+        "type": "Point"
+      },
+      "id": "14e9dc0ad9718259b0fd4be8356f5131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90820",
+        "street": "20434 S Santa Fe Ave",
+        "keywords": "Stage",
+        "city": "Long Beach",
+        "name": "Thunder Studios",
+        "phone": "(310) 762-1360",
+        "state": "CA",
+        "type": "Stage",
+        "website": "https://www.thunderstudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.210326,
+          33.845619
+        ],
+        "type": "Point"
+      },
+      "id": "166b14620f7f7d0c529472d4e05fea9a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90270",
+        "street": "4911 Slauson Ave",
+        "keywords": "Standing sets",
+        "city": "Maywood",
+        "name": "Ideal Sets",
+        "phone": "(626) 991-5991",
+        "state": "CA",
+        "type": "Standing Sets",
+        "website": "http://www.idealsets.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.173849,
+          33.987191
+        ],
+        "type": "Point"
+      },
+      "id": "17e3c148d0d55f375b0b889347097cdb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90038",
+        "street": "5300 Melrose Ave E",
+        "keywords": "Stage",
+        "city": "Los Angeles",
+        "name": "Raleigh Studios Hollywood",
+        "phone": "(888) 960-3456",
+        "state": "CA",
+        "type": "Stage",
+        "website": "https://raleighstudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.317204,
+          34.083474
+        ],
+        "type": "Point"
+      },
+      "id": "197712aa1bceb6819ac92f8b1acbfe5e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90032",
+        "street": "5250 Huntington Dr S",
+        "keywords": "Standing Sets",
+        "city": "Los Angeles",
+        "name": "Warehouse 1 Productions",
+        "phone": "(818) 940-1574",
+        "state": "CA",
+        "type": "Standing Sets",
+        "website": "https://warehouse1productions.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.167148,
+          34.089661
+        ],
+        "type": "Point"
+      },
+      "id": "1ab93cbf230aa510553fa00f3ffb864c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90802",
+        "street": "1126 Queens Hwy",
+        "keywords": "Ship, Art Deco",
+        "city": "Long Beach",
+        "name": "The Queen Mary",
+        "phone": "(562) 435-3510",
+        "state": "CA",
+        "type": "Ship",
+        "website": "https://www.queenmary.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.189985,
+          33.752814
+        ],
+        "type": "Point"
+      },
+      "id": "1b83daeb68a3edd47a60eed89c3a4b10"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90028",
+        "street": "5800 Sunset Blvd",
+        "keywords": "Stage",
+        "city": "Los Angeles",
+        "name": "Sunset Bronson Studios",
+        "phone": "(323) 460-5858",
+        "state": "CA",
+        "type": "Studio",
+        "website": "https://www.sunsetstudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.316457,
+          34.097557
+        ],
+        "type": "Point"
+      },
+      "id": "1ef64072e6c65630bb4a74159f73550a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90028",
+        "street": "1541 N Cahuenga Blvd",
+        "keywords": "Stage",
+        "city": "Los Angeles",
+        "name": "Goya Studios Sound Stage",
+        "phone": "(323) 230-9005",
+        "state": "CA",
+        "type": "Stage",
+        "website": "https://goyastudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.329751,
+          34.099536
+        ],
+        "type": "Point"
+      },
+      "id": "1f8f89b54cd880a2f0fe679ea03ac1aa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91601",
+        "street": "5436 Cleon Ave",
+        "keywords": "Airplane",
+        "city": "North Hollywood",
+        "name": "Jets & Props",
+        "phone": "(818) 505-0199",
+        "state": "CA",
+        "type": "Aircraft",
+        "website": "http://www.jetsandprops.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.36812,
+          34.169798
+        ],
+        "type": "Point"
+      },
+      "id": "20796cdc3ba2dbe56c932886a5386fd7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "70087",
+        "street": "10289 E Airline Hwy",
+        "keywords": "Stage",
+        "city": "St Rose",
+        "name": "Quixote Studios - New Orleans",
+        "phone": "(323) 851-5030",
+        "state": "LA",
+        "type": "Stage",
+        "website": "https://quixote.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -90.288775,
+          29.976624
+        ],
+        "type": "Point"
+      },
+      "id": "23f326bf9739d6e521e8e4def20ba9dc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90038",
+        "street": "1005 Lillian Way",
+        "keywords": "Stage",
+        "city": "Los Angeles",
+        "name": "Quixote Studios - Hollywood (Stage 4)",
+        "phone": "(323) 851-5030",
+        "state": "CA",
+        "type": "Stage",
+        "website": "https://quixote.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.327683,
+          34.089395
+        ],
+        "type": "Point"
+      },
+      "id": "266281dd01ff82e823f6556c4ffc6b59"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91502",
+        "street": "707 N Victory Blvd",
+        "keywords": "",
+        "city": "Burbank",
+        "name": "SirReel - Victory",
+        "phone": "(888) 477-7335",
+        "state": "CA",
+        "type": "Stage",
+        "website": "https://www.sirreel.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.320243,
+          34.180939
+        ],
+        "type": "Point"
+      },
+      "id": "27ea49dca1de8515a93fb6e689152137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90014",
+        "street": "530 E 8th St #500",
+        "keywords": "Photography",
+        "city": "Los Angeles",
+        "name": "FD Photo Studio",
+        "phone": "(323) 454-2323",
+        "state": "CA",
+        "type": "Photography Studio",
+        "website": "http://fdphotostudio.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.249732,
+          34.039558
+        ],
+        "type": "Point"
+      },
+      "id": "2864991af54c101e315a787996589e81"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90038",
+        "street": "1106 N Hudson Ave, 2nd Floor",
+        "keywords": "Photography",
+        "city": "Los Angeles",
+        "name": "Historic Hudson Studios",
+        "phone": "(323) 461-1044",
+        "state": "CA",
+        "type": "Photography Studio",
+        "website": "http://www.historichudsonstudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.331899,
+          34.091145
+        ],
+        "type": "Point"
+      },
+      "id": "290ab0ebd709dbbc06528a6dc834a575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90021",
+        "street": "1360 E 6th St",
+        "keywords": "Standing Sets",
+        "city": "Los Angeles",
+        "name": "D C Stages",
+        "phone": "(310) 804-5712",
+        "state": "CA",
+        "type": "Parking",
+        "website": "https://dcstagesparking.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.233057,
+          34.036978
+        ],
+        "type": "Point"
+      },
+      "id": "295f246de12975216a2175ddb4992e10"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90039",
+        "street": "1923 Micheltorena St",
+        "keywords": "Mansion",
+        "city": "Los Angeles",
+        "name": "Paramour Mansion",
+        "phone": "(213) 999-0920",
+        "state": "CA",
+        "type": "Mansion",
+        "website": "http://theparamour.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.271258,
+          34.095118
+        ],
+        "type": "Point"
+      },
+      "id": "2d21ef0f3f5a781fec263e7229139178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90015",
+        "street": "409 W Olympic Blvd",
+        "keywords": "Photography Studio",
+        "city": "Los Angeles",
+        "name": "FlixStudio - LA",
+        "phone": "(917) 830-6172",
+        "state": "CA",
+        "type": "Photography Studio",
+        "website": "https://flixstudio.io/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.259004,
+          34.043332
+        ],
+        "type": "Point"
+      },
+      "id": "2f5bf45590eb0486fdc7f0f2b819ba8e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "11237",
+        "street": "505 Johnson Ave Suite 9 2nd Floor",
+        "keywords": "Photography",
+        "city": "New York",
+        "name": "Urban Myth Studio",
+        "phone": "",
+        "state": "NY",
+        "type": "Photography Studio",
+        "website": "http://urbanmythstudio.com/studio-home.html",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -73.926436,
+          40.708831
+        ],
+        "type": "Point"
+      },
+      "id": "3202f8576eb26be9e98e98da0a5c1c83"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91204",
+        "street": "3909 San Fernando Rd",
+        "keywords": "Stage, Staircase, Brick",
+        "city": "Glendale",
+        "name": "Solar Studios",
+        "phone": "(310) 489-7801",
+        "state": "CA",
+        "type": "Event Space",
+        "website": "http://solarstudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.258389,
+          34.126812
+        ],
+        "type": "Point"
+      },
+      "id": "32ba7a16afe4bcf1b5a8c0e11d7d05e5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91001",
+        "street": "3990 N Fair Oaks Ave",
+        "keywords": "Ranch",
+        "city": "Altadena",
+        "name": "Zorthian Ranch",
+        "phone": "(626) 797-3359",
+        "state": "CA",
+        "type": "Ranch",
+        "website": "http://zorthianranch.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.138402,
+          34.208798
+        ],
+        "type": "Point"
+      },
+      "id": "3768d93f865864cc3c3dc12a4ab50a1f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91387",
+        "street": "25933 Sand Canyon Rd",
+        "keywords": "Ranch, Parking",
+        "city": "Santa Clarita",
+        "name": "Sable Ranch",
+        "phone": "(661) 252-9751",
+        "state": "CA",
+        "type": "Ranch",
+        "website": "https://ranchomariasable.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.410556,
+          34.376885
+        ],
+        "type": "Point"
+      },
+      "id": "378746d96d028df76c9cb475c23305a2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90265",
+        "street": "12420 Yellow Hill Rd",
+        "keywords": "Ranch",
+        "city": "Malibu",
+        "name": "Dry Gulch Ranch",
+        "phone": "(310) 384-2088",
+        "state": "CA",
+        "type": "Ranch",
+        "website": "",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.943901,
+          34.07923
+        ],
+        "type": "Point"
+      },
+      "id": "387e75b52978af22ef0c8c9362adc264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91352",
+        "street": "8500 Lankershim Blvd",
+        "keywords": "",
+        "city": "Sun Valley",
+        "name": "SirReel - Lankershim",
+        "phone": "(888) 477-7335",
+        "state": "CA",
+        "type": "Stage",
+        "website": "https://www.sirreel.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.387232,
+          34.22428
+        ],
+        "type": "Point"
+      },
+      "id": "39624121f8e4c788ceb3c773ba97d782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90230",
+        "street": "5711 Buckingham Pkwy",
+        "keywords": "Stage, Smells Like Teen Spirit",
+        "city": "Culver City",
+        "name": "GMT Studio Space",
+        "phone": "(310) 649-3733",
+        "state": "CA",
+        "type": "Stage",
+        "website": "",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.379693,
+          33.991708
+        ],
+        "type": "Point"
+      },
+      "id": "3a8809f356009d4c4643a560d312818b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "33136",
+        "street": "50 NW 14th St",
+        "keywords": "Studio, Paramount, Viacom",
+        "city": "Miami",
+        "name": "EUE Screen Gems - Miami",
+        "phone": "(786) 774-4007",
+        "state": "FL",
+        "type": "Studio",
+        "website": "https://euescreengems.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -80.197433,
+          25.788971
+        ],
+        "type": "Point"
+      },
+      "id": "3c03314fff2933a32700217ea5ffc653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90038",
+        "street": "1040 N Las Palmas Ave",
+        "keywords": "Stage",
+        "city": "Los Angeles",
+        "name": "Sunset Las Palmas Studios",
+        "phone": "(323) 860-0000",
+        "state": "CA",
+        "type": "Studio",
+        "website": "https://www.sunsetstudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.335115,
+          34.089894
+        ],
+        "type": "Point"
+      },
+      "id": "3ea851aa60b1a7ecf07214a9cf4f5747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91505",
+        "street": "3000 W Alameda Ave",
+        "keywords": "Studio, Formerly NBC Studios",
+        "city": "Burbank",
+        "name": "The Burbank Studios",
+        "phone": "(818) 840-3000",
+        "state": "CA",
+        "type": "Studio",
+        "website": "https://theburbankstudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.33362,
+          34.154892
+        ],
+        "type": "Point"
+      },
+      "id": "40363d1277c84831e4c53a96b0ba858c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91768",
+        "street": "1101 W McKinley Ave",
+        "keywords": "Fairgrounds",
+        "city": "Pomona",
+        "name": "Fairplex",
+        "phone": "(909) 623-3111",
+        "state": "CA",
+        "type": "Park",
+        "website": "https://fairplex.com/business/film/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -117.766239,
+          34.081108
+        ],
+        "type": "Point"
+      },
+      "id": "40ac97f98066336dfc5a95cf8e72519a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "93063",
+        "street": "4927 Bennett Rd",
+        "keywords": "Ranch",
+        "city": "Simi Valey",
+        "name": "Big Sky Movie Ranch",
+        "phone": "(805) 285-2539",
+        "state": "CA",
+        "type": "Ranch",
+        "website": "http://bigskymovieranchofficial.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.717604,
+          34.319999
+        ],
+        "type": "Point"
+      },
+      "id": "43474dd3e8d5ee9d8197c30721e72f8a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90064",
+        "street": "2323 Corinth Ave",
+        "keywords": "Stage",
+        "city": "Los Angeles",
+        "name": "The Complex Studios",
+        "phone": "(310) 477-1938",
+        "state": "CA",
+        "type": "Stage",
+        "website": "https://thecomplexstudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.440343,
+          34.035787
+        ],
+        "type": "Point"
+      },
+      "id": "4353fef633cee56d6f6a1567877ca661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91504",
+        "street": "3050 Lima St",
+        "keywords": "",
+        "city": "Burbank",
+        "name": "SirReel - Lima",
+        "phone": "(888) 477-7335",
+        "state": "CA",
+        "type": "Stage",
+        "website": "https://www.sirreel.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.344918,
+          34.205472
+        ],
+        "type": "Point"
+      },
+      "id": "461badc1891e2d1e1d419414941fb9f9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90011",
+        "street": "439 E 58th St",
+        "keywords": "Stage",
+        "city": "Los Angeles",
+        "name": "Electric Pony Studios",
+        "phone": "(323) 251-6522",
+        "state": "CA",
+        "type": "Stage",
+        "website": "http://www.electricponystudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.265704,
+          33.99006
+        ],
+        "type": "Point"
+      },
+      "id": "4a508c77170c3cd11cf0c6fc9e5701e5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91331",
+        "street": "9337 Laurel Canyon Blvd",
+        "keywords": "Stage",
+        "city": "Arleta",
+        "name": "Laurel Canyon Stages",
+        "phone": "(818) 768-8935",
+        "state": "CA",
+        "type": "Stage",
+        "website": "http://www.lcstages.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.410836,
+          34.238415
+        ],
+        "type": "Point"
+      },
+      "id": "4c7f7471d7c50add5f72f0b8898c4389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90272",
+        "street": "17000 CA-1",
+        "keywords": "Beach",
+        "city": "Pacific Palisades",
+        "name": "Will Rogers State Beach",
+        "phone": "",
+        "state": "CA",
+        "type": "Beach",
+        "website": "http://beaches.lacounty.gov/will-rogers-beach/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.535924,
+          34.035776
+        ],
+        "type": "Point"
+      },
+      "id": "4d1a4c075c8ce29e3d1ad9a39bf5752b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91381",
+        "street": "27201 Pico Canyon Rd #1804",
+        "keywords": "Ranch",
+        "city": "Stevenson Ranch",
+        "name": "Mentryville Park",
+        "phone": "",
+        "state": "CA",
+        "type": "Park",
+        "website": "https://mrca.ca.gov/parks/park-listing/mentryville/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.610357,
+          34.379419
+        ],
+        "type": "Point"
+      },
+      "id": "4d26130d996fc25d35262dcbf432e043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91203",
+        "street": "757 W California Ave",
+        "keywords": "Stage",
+        "city": "Glendale",
+        "name": "East End Studios",
+        "phone": "(323) 225-4139",
+        "state": "CA",
+        "type": "Stage",
+        "website": "https://eastendstudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.272792,
+          34.150664
+        ],
+        "type": "Point"
+      },
+      "id": "4eb5346766077db9a471dc0e3fd96259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91350",
+        "street": "22116 Soledad Canyon Rd",
+        "keywords": "Ranch",
+        "city": "Santa Clarita",
+        "name": "Bermite Facility",
+        "phone": "(661) 247-3854",
+        "state": "CA",
+        "type": "Ranch",
+        "website": "https://www.valencialocations.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.52368,
+          34.414582
+        ],
+        "type": "Point"
+      },
+      "id": "4f3acc47ba5153fa9c59f5f935ea813f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90038",
+        "street": "846 N Cahuenga Blvd",
+        "keywords": "Stage",
+        "city": "Los Angeles",
+        "name": "Red Studios Hollywood",
+        "phone": "(323) 993-5400",
+        "state": "CA",
+        "type": "Stage",
+        "website": "https://www.redstudioshollywood.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.327898,
+          34.086267
+        ],
+        "type": "Point"
+      },
+      "id": "5535023303a8bf39d480e9edfdd65c64"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90017",
+        "street": "450 S Bixel St",
+        "keywords": "Stage, Office, Commercial, Roads",
+        "city": "Los Angeles",
+        "name": "Los Angeles Center Studios",
+        "phone": "(213) 534-3000",
+        "state": "CA",
+        "type": "Stage",
+        "website": "http://www.lacenterstudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.260737,
+          34.055399
+        ],
+        "type": "Point"
+      },
+      "id": "57f031fd3d23487c2037544721a00244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90036",
+        "street": "7800 Beverly Blvd",
+        "keywords": "Stage",
+        "city": "Los Angeles",
+        "name": "CBS Television City",
+        "phone": "(323) 575-2345",
+        "state": "CA",
+        "type": "Studio",
+        "website": "https://tvcstudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.359617,
+          34.075177
+        ],
+        "type": "Point"
+      },
+      "id": "5877cc7964d548be0879493e0307f1a9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "30214",
+        "street": "461 Sandy Creek Rd",
+        "keywords": "Studio",
+        "city": "Fayettville",
+        "name": "Trilith Studios",
+        "phone": "(678) 369-5950",
+        "state": "GA",
+        "type": "Studio",
+        "website": "https://www.trilith.com//",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -84.511942,
+          33.473246
+        ],
+        "type": "Point"
+      },
+      "id": "5fb7cf0a04b10c66922a74aa5f31a2cb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91352",
+        "street": "9457 San Fernando Rd",
+        "keywords": "Motel, Pool",
+        "city": "Sun Valley",
+        "name": "Pink Motel",
+        "phone": "(818) 767-3605",
+        "state": "CA",
+        "type": "Commercial",
+        "website": "http://cadillac-jacks.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.39569,
+          34.24137
+        ],
+        "type": "Point"
+      },
+      "id": "5fc98784ba551700fe8285a578f6a301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90265",
+        "street": "30000 E Pacific Coast Hwy",
+        "keywords": "Beach",
+        "city": "Malibu",
+        "name": "Zuma Beach",
+        "phone": "",
+        "state": "CA",
+        "type": "Beach",
+        "website": "",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.819952,
+          34.015934
+        ],
+        "type": "Point"
+      },
+      "id": "61e004aebfba6344ece85dd72d74908b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90265",
+        "street": "35000 Pacific Coast Highway W",
+        "keywords": "",
+        "city": "Malibu",
+        "name": "Leo Carrillo State Beach",
+        "phone": "",
+        "state": "CA",
+        "type": "Beach",
+        "website": "https://www.parks.ca.gov/?page_id=616",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.933265,
+          34.046769
+        ],
+        "type": "Point"
+      },
+      "id": "63c40120ab0c7090ad04cdfd5f7ea748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91204",
+        "street": "434 W Cypress St",
+        "keywords": "Stage",
+        "city": "Glendale",
+        "name": "Voxx Studios",
+        "phone": "(818) 660-2102",
+        "state": "CA",
+        "type": "Stage",
+        "website": "http://voxxstudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.261372,
+          34.129215
+        ],
+        "type": "Point"
+      },
+      "id": "6439e0c7f1a342c7a4e53d457f11ef0c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90028",
+        "street": "1444 N Highland Ave",
+        "keywords": "Stage",
+        "city": "Los Angeles",
+        "name": "Wick Studios",
+        "phone": "(626) 217-2536",
+        "state": "CA",
+        "type": "Photography Studio",
+        "website": "http://www.wickstudios.la/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.338051,
+          34.097506
+        ],
+        "type": "Point"
+      },
+      "id": "69a4a6150d920a817ae6e6d8cd56abbf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91007",
+        "street": "285 W Huntington Dr",
+        "keywords": "Racecourse, Racetrack, Stables, Art Deco",
+        "city": "Arcadia",
+        "name": "Santa Anita Park",
+        "phone": "(626) 574-7223",
+        "state": "CA",
+        "type": "Athletic Venue",
+        "website": "http://www.santaanita.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.045358,
+          34.139434
+        ],
+        "type": "Point"
+      },
+      "id": "69bb11d0bdf39cc1000c52f03a678f02"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90046",
+        "street": "920 N Formosa Ave St 1/4",
+        "keywords": "Photography",
+        "city": "Los Angeles",
+        "name": "Dust Studios LA",
+        "phone": "(323) 450-9284",
+        "state": "CA",
+        "type": "Photography Studio",
+        "website": "http://duststudiosla.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.345302,
+          34.088055
+        ],
+        "type": "Point"
+      },
+      "id": "69eefa3ee4206451a57df0343caf9892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90013",
+        "street": "721 E 5th St",
+        "keywords": "Apartment",
+        "city": "Los Angeles",
+        "name": "The El Sol",
+        "phone": "",
+        "state": "CA",
+        "type": "Apartment",
+        "website": "https://rendonfilmlocation.com/contact/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.241167,
+          34.042874
+        ],
+        "type": "Point"
+      },
+      "id": "69ffee917c4b16c060dc5727b164e762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90014",
+        "street": "704 S Spring St #405",
+        "keywords": "Photography",
+        "city": "Los Angeles",
+        "name": "The Room Downtown",
+        "phone": "(405) 367-4014",
+        "state": "CA",
+        "type": "Photography Studio",
+        "website": "https://www.theroomdowntown.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.251827,
+          34.0444
+        ],
+        "type": "Point"
+      },
+      "id": "6a2997e9fadfa3e364c7d23526b295b2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "93063",
+        "street": "2940 Kuehner Dr",
+        "keywords": "Mansion, Parking",
+        "city": "Santa Susana",
+        "name": "Hummingbird Nest Ranch",
+        "phone": "(805) 579-8000",
+        "state": "CA",
+        "type": "Mansion",
+        "website": "http://www.hummingbirdnestranch.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.6547,
+          34.285301
+        ],
+        "type": "Point"
+      },
+      "id": "6b892177a929e63ebb86e9349c34a5bf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91604",
+        "street": "4024 Radford Ave",
+        "keywords": "Stage",
+        "city": "Studio City",
+        "name": "CBS Studio Center",
+        "phone": "(818) 655-5000",
+        "state": "CA",
+        "type": "Studio",
+        "website": "http://www.cbssc.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.391991,
+          34.144724
+        ],
+        "type": "Point"
+      },
+      "id": "6ec8e24cd905eff343a001891008f863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90023",
+        "street": "1539 S Grande Vista Ave",
+        "keywords": "Stage",
+        "city": "Los Angeles",
+        "name": "Pollution Studios",
+        "phone": "(323) 981-1520",
+        "state": "CA",
+        "type": "Stage",
+        "website": "http://www.pollutionstudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.209316,
+          34.017079
+        ],
+        "type": "Point"
+      },
+      "id": "6f069d2ccffdb1da20b42d3ccd5de8f0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91001",
+        "street": "2400 N Fair Oaks Ave",
+        "keywords": "Cemetery, Mortuary, Office, Mausoleum",
+        "city": "Altadena",
+        "name": "Mountain View Mortuary",
+        "phone": "(626) 794-7133",
+        "state": "CA",
+        "type": "Cemetery",
+        "website": "https://www.mtn-view.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.150292,
+          34.187179
+        ],
+        "type": "Point"
+      },
+      "id": "6f78d7f2cd2d508e0125751ec07aadd6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90265",
+        "street": "6800 Westward Beach Rd",
+        "keywords": "Beach",
+        "city": "Malibu",
+        "name": "Westward Beach",
+        "phone": "",
+        "state": "CA",
+        "type": "Beach",
+        "website": "http://www.parks.ca.gov/?page_id=623",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.814866,
+          34.008525
+        ],
+        "type": "Point"
+      },
+      "id": "71530a25696ffc2e4ffee6335688a446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "93040",
+        "street": "6972 E Telegraph Rd",
+        "keywords": "Ranch, Orchard",
+        "city": "Piru",
+        "name": "Newhall Orchards",
+        "phone": "",
+        "state": "CA",
+        "type": "Ranch",
+        "website": "https://www.filmnewhall.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.739788,
+          34.40636
+        ],
+        "type": "Point"
+      },
+      "id": "7408a6671d419f57488e643296dd4ece"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90003",
+        "street": "6000 Avalon Blvd",
+        "keywords": "Warehouse",
+        "city": "Los Angeles",
+        "name": "Studios 60",
+        "phone": "(310) 927-1551",
+        "state": "CA",
+        "type": "Warehouse",
+        "website": "http://studios60.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.26415,
+          33.985394
+        ],
+        "type": "Point"
+      },
+      "id": "74731572d389c3fa50cc5f8341787825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91321",
+        "street": "24715 Oak Creek",
+        "keywords": "Ranch, Western Town, Stage, Offices",
+        "city": "Santa Clarita",
+        "name": "Melody Ranch Studio",
+        "phone": "(661) 259-9669",
+        "state": "CA",
+        "type": "Ranch",
+        "website": "http://www.melodyranchstudio.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.510551,
+          34.384151
+        ],
+        "type": "Point"
+      },
+      "id": "76d0acf6b13cea5dc5ac9fc4efec8009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "93510",
+        "street": "5726 Soledad Canyon Rd",
+        "keywords": "Ranch",
+        "city": "Acton",
+        "name": "Polsa Rosa Ranch Studios",
+        "phone": "(661) 269-5554",
+        "state": "CA",
+        "type": "Ranch",
+        "website": "http://www.polsarosaranch.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.231727,
+          34.434253
+        ],
+        "type": "Point"
+      },
+      "id": "770e29a1fb0687daea84f8d4727d0a9d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "28405",
+        "street": "1223 N 23rd St",
+        "keywords": "Studio",
+        "city": "Wilmington",
+        "name": "EUE Screen Gems - Wilmington",
+        "phone": "(910) 343-3500",
+        "state": "NC",
+        "type": "Studio",
+        "website": "https://euescreengems.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -77.921087,
+          34.253535
+        ],
+        "type": "Point"
+      },
+      "id": "77b56a8963a48b897dc13f369ab2edd6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90038",
+        "street": "6311 Romaine St",
+        "keywords": "Stage",
+        "city": "Los Angeles",
+        "name": "Television Center",
+        "phone": "(323) 464-6638",
+        "state": "CA",
+        "type": "Stage",
+        "website": "http://www.televisioncenter.tv/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.328783,
+          34.089129
+        ],
+        "type": "Point"
+      },
+      "id": "7a1d9c23c9a8dc80bd1e704cde51447d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91304",
+        "street": "8033 Remmet Ave",
+        "keywords": "Stage, Standing Set",
+        "city": "Canoga Park",
+        "name": "Remmet Studios",
+        "phone": "(310) 737-8033",
+        "state": "CA",
+        "type": "Stage",
+        "website": "https://www.remmetstudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.600231,
+          34.216811
+        ],
+        "type": "Point"
+      },
+      "id": "7ba29cf1a92b8119f7c916628c28db7f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "97060",
+        "street": "27100 SE Stark St",
+        "keywords": "Stage",
+        "city": "Troutdale",
+        "name": "Vision Stages",
+        "phone": "(310) 623-0308",
+        "state": "OR",
+        "type": "Stage",
+        "website": "https://visionstages.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -122.38431,
+          45.518198
+        ],
+        "type": "Point"
+      },
+      "id": "7c55769cb444a1ebde291dd2694dbc3d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90013",
+        "street": "810 E 3rd St #404",
+        "keywords": "Photography",
+        "city": "Los Angeles",
+        "name": "Arts District Daylight Studio",
+        "phone": "(818) 679-1099",
+        "state": "CA",
+        "type": "Photography Studio",
+        "website": "http://www.curatedstudiorentals.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.2354,
+          34.045787
+        ],
+        "type": "Point"
+      },
+      "id": "7cda9ce976b6d7e47691828aa93e1113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91355",
+        "street": "25135 Anza Dr",
+        "keywords": "Stage, Backlot",
+        "city": "Santa Clarita",
+        "name": "Santa Clarita Stages",
+        "phone": "(661) 294-2000",
+        "state": "CA",
+        "type": "Stage",
+        "website": "http://sc-studios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.577404,
+          34.431728
+        ],
+        "type": "Point"
+      },
+      "id": "804453caca70fa06854094ea3d3b376d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91361",
+        "street": "1201 W Potrero Rd",
+        "keywords": "Ranch",
+        "city": "Thousand Oaks",
+        "name": "El Campeon Farms",
+        "phone": "(805) 497-2766",
+        "state": "CA",
+        "type": "Ranch",
+        "website": "http://elcampeonfarms.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.907799,
+          34.153918
+        ],
+        "type": "Point"
+      },
+      "id": "8112fc70baed8cea79c33b865e5a56da"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91321",
+        "street": "19802 Placerita Canyon Rd",
+        "keywords": "Main Street, Residential Street, Woods, Barn, Waterfall, Disney",
+        "city": "Newhall",
+        "name": "Golden Oak Ranch",
+        "phone": "(661) 259-8717",
+        "state": "CA",
+        "type": "Ranch",
+        "website": "http://www.goldenoakranch.com/",
+        "description": "This is a test description"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.486286,
+          34.375489
+        ],
+        "type": "Point"
+      },
+      "id": "8159038c53e345b87ff0be8180f828fe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91504",
+        "street": "3406 Winona Ave",
+        "keywords": "Stage, Rehearsal",
+        "city": "Burbank",
+        "name": "Center Staging Rehearsal Studios",
+        "phone": "(818) 559-4333",
+        "state": "CA",
+        "type": "Stage",
+        "website": "http://www.centerstaging.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.347819,
+          34.199251
+        ],
+        "type": "Point"
+      },
+      "id": "8210d16d7e7ca989a1e635945af83b38"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91381",
+        "street": "26835 Pico Canyon Road",
+        "keywords": "Ranch, Barn, Trails",
+        "city": "Stevenson Ranch",
+        "name": "Newhall Land",
+        "phone": "",
+        "state": "CA",
+        "type": "Ranch",
+        "website": "https://www.filmnewhall.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.605226,
+          34.382717
+        ],
+        "type": "Point"
+      },
+      "id": "860f4df77e7a9ae93e00809650dd76ca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91390",
+        "street": "10700 Escondido Canyon Rd",
+        "keywords": "Park, Star Trek",
+        "city": "Agua Dulce",
+        "name": "Vasquez Rocks Natural Area Park",
+        "phone": "",
+        "state": "CA",
+        "type": "Park",
+        "website": "https://parks.lacounty.gov/vasquez-rocks-natural-area-and-nature-center/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.321154,
+          34.48864
+        ],
+        "type": "Point"
+      },
+      "id": "869fbc25bdf53bb77aa04c19aa6cd8dd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90029",
+        "street": "1215 Bates Ave",
+        "keywords": "Stage",
+        "city": "Los Angeles",
+        "name": "Mack Sennett Studios",
+        "phone": "(323) 660-8466",
+        "state": "CA",
+        "type": "Stage",
+        "website": "https://macksennettstudios.net/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.281407,
+          34.095798
+        ],
+        "type": "Point"
+      },
+      "id": "87260cf61edd09891835bafa845522d8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90012",
+        "street": "424 N Main St",
+        "keywords": "Landmark, House, Apartment, Arch",
+        "city": "Los Angeles",
+        "name": "Pico House",
+        "phone": "",
+        "state": "CA",
+        "type": "Landmark",
+        "website": "https://elpueblo.lacity.org/filming-special-events",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.23937,
+          34.056223
+        ],
+        "type": "Point"
+      },
+      "id": "8a02e6619e4366f995252513c43d1209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90232",
+        "street": "4080 Overland Ave",
+        "keywords": "Stage, New York Street, Studio",
+        "city": "Culver City",
+        "name": "Sony Pictures Studio",
+        "phone": "(310) 244-4000",
+        "state": "CA",
+        "type": "Studio",
+        "website": "http://www.sonypicturesstudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.403867,
+          34.015929
+        ],
+        "type": "Point"
+      },
+      "id": "913f1e1e92822a543530ff2624a19c51"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90039",
+        "street": "5301 Exchange St",
+        "keywords": "Sound Stage",
+        "city": "Los Angeles",
+        "name": "Affordable Sound Stages",
+        "phone": "(818) 641-0220",
+        "state": "CA",
+        "type": "Stage",
+        "website": "http://affordablesoundstages.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.276105,
+          34.149027
+        ],
+        "type": "Point"
+      },
+      "id": "92d9aa5dee5701f4df6934a9df6bd54b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90021",
+        "street": "1446 E Washington Blvd",
+        "keywords": "Photography",
+        "city": "Los Angeles",
+        "name": "BOXeight Studios",
+        "phone": "(305) 766-9678",
+        "state": "CA",
+        "type": "Photography Studio",
+        "website": "https://www.boxeight.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.246471,
+          34.022296
+        ],
+        "type": "Point"
+      },
+      "id": "93383d574875f5c663b05bcbc715ce83"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90031",
+        "street": "2630 Lacy St",
+        "keywords": "Warehouse, Brick, Industrial",
+        "city": "Los Angeles",
+        "name": "Lacy Street Production Center",
+        "phone": "(323) 222-8872",
+        "state": "CA",
+        "type": "Warehouse",
+        "website": "http://lacystreet.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.219486,
+          34.082275
+        ],
+        "type": "Point"
+      },
+      "id": "943788f3b3945f44d3ecf07b45da190a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90046",
+        "street": "1011 N Fuller Ave",
+        "keywords": "Stage",
+        "city": "West Hollywood",
+        "name": "Quixote Studios - West Hollywood (Stages 1-3)",
+        "phone": "(323) 851-5030",
+        "state": "CA",
+        "type": "Stage",
+        "website": "https://quixote.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.349836,
+          34.08939
+        ],
+        "type": "Point"
+      },
+      "id": "9474b7e13ecd4c80b329fd24feb83bea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90031",
+        "street": "3800 Homer St",
+        "keywords": "Museum, Victorian",
+        "city": "Los Angeles",
+        "name": "Heritage Square Museum",
+        "phone": "",
+        "state": "CA",
+        "type": "Landmark",
+        "website": "https://heritagesquare.org/about/rentals",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.207551,
+          34.0884
+        ],
+        "type": "Point"
+      },
+      "id": "94c1952db9ac0cfa7815caf29937a3bf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91352",
+        "street": "11273 Goss St",
+        "keywords": "Stage",
+        "city": "Sun Valley",
+        "name": "Stage This",
+        "phone": "(818) 726-2240",
+        "state": "CA",
+        "type": "Stage",
+        "website": "http://stagethisla.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.376601,
+          34.223689
+        ],
+        "type": "Point"
+      },
+      "id": "9bbb37f90f1c87de64a255e55c91045e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "10018",
+        "street": "447 W 36th St FL 3",
+        "keywords": "Photography",
+        "city": "New York",
+        "name": "Hudson Yards Loft",
+        "phone": "",
+        "state": "NY",
+        "type": "Photography Studio",
+        "website": "http://hudsonyardsloft.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -73.997025,
+          40.755874
+        ],
+        "type": "Point"
+      },
+      "id": "9f26b41137c91067b12743acd7e3f506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91406",
+        "street": "7900 Haskell Ave",
+        "keywords": "Stage, New York Street",
+        "city": "Van Nuys",
+        "name": "Avenue Six Studios",
+        "phone": "(818) 781-6600",
+        "state": "CA",
+        "type": "Stage",
+        "website": "http://www.avenuesixstudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.474377,
+          34.214364
+        ],
+        "type": "Point"
+      },
+      "id": "9fbbee2bef590eb49b9d8ce0e2094104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "93591",
+        "street": "14499 E Ave Q",
+        "keywords": "Ranch, Picture Vehicles",
+        "city": "Palmdale",
+        "name": "Four Aces Movie Set",
+        "phone": "(323) 821-4466",
+        "state": "CA",
+        "type": "Ranch",
+        "website": "http://www.4-aces.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -117.871321,
+          34.587731
+        ],
+        "type": "Point"
+      },
+      "id": "a1f98aad058b56066335d303d12f3ab2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90815",
+        "street": "6400 E Bixby Hill Rd",
+        "keywords": "Ranch",
+        "city": "Long Beach",
+        "name": "Rancho Los Alamitos",
+        "phone": "",
+        "state": "CA",
+        "type": "Park",
+        "website": "https://www.rancholosalamitos.org/events/site_uses/index.html",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.106597,
+          33.776969
+        ],
+        "type": "Point"
+      },
+      "id": "a37231c2003db66494486345d1263f53"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90038",
+        "street": "5555 Melrose Ave",
+        "keywords": "Studio",
+        "city": "Los Angeles",
+        "name": "Paramount Studios",
+        "phone": "(818) 786-1823",
+        "state": "CA",
+        "type": "Studio",
+        "website": "https://www.paramount.com/television",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.319523,
+          34.083663
+        ],
+        "type": "Point"
+      },
+      "id": "a50f9693c24ad38574ce88677daec6dc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90057",
+        "street": "627 S Carondelet St",
+        "keywords": "Wedding, House,",
+        "city": "Los Angeles",
+        "name": "Carondelet House",
+        "phone": "(323) 310-4700",
+        "state": "CA",
+        "type": "Event Space",
+        "website": "http://carondelethouse.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.28002,
+          34.060933
+        ],
+        "type": "Point"
+      },
+      "id": "a8ba558ac43bde94d9181736f646fb51"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91741",
+        "street": "844 N Live Oak Ave",
+        "keywords": "Stone",
+        "city": "Glendora",
+        "name": "Rubel Castle",
+        "phone": "(626) 963-0419",
+        "state": "CA",
+        "type": "Residence",
+        "website": "http://www.glendorahistoricalsociety.org/castle/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -117.854355,
+          34.150471
+        ],
+        "type": "Point"
+      },
+      "id": "a8d23a709f2725e19ec512a01a479faf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91367",
+        "street": "Victory Blvd & Gilmore St",
+        "keywords": "Ranch",
+        "city": "Woodland Hills",
+        "name": "Upper Las Virgenes Canyon Open Space Preserve",
+        "phone": "",
+        "state": "CA",
+        "type": "Park",
+        "website": "https://mrca.ca.gov/parks/park-listing/upper-las-virgenes-canyon-open-space-preserve-formerly-ahmanson-ranch/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.66809,
+          34.185142
+        ],
+        "type": "Point"
+      },
+      "id": "a9839a298775efd66d6d8fcfea72540f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90012",
+        "street": "1700 Naud St Unit C",
+        "keywords": "Photography, Wedding",
+        "city": "Los Angeles",
+        "name": "The Revery LA",
+        "phone": "(213) 434-6591",
+        "state": "CA",
+        "type": "Photography Studio",
+        "website": "http://www.thereveryla.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.225818,
+          34.068725
+        ],
+        "type": "Point"
+      },
+      "id": "a9a1398f29b7c677d0b3f1ec43db8c26"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90046",
+        "street": "1001 N Poinsettia Pl",
+        "keywords": "Stage",
+        "city": "West Hollywood",
+        "name": "Quixote Studios - West Hollywood (Stage 5)",
+        "phone": "(323) 851-5030",
+        "state": "CA",
+        "type": "Stage",
+        "website": "https://quixote.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.348806,
+          34.089295
+        ],
+        "type": "Point"
+      },
+      "id": "aa3728916f3c61cdecff380b60767fdc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90007",
+        "street": "1122 W 24th St",
+        "keywords": "Theater, Theatre",
+        "city": "Los Angeles",
+        "name": "The Velaslavasay Panorama",
+        "phone": "",
+        "state": "CA",
+        "type": "Theatre",
+        "website": "http://www.panoramaonview.org/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.284151,
+          34.034313
+        ],
+        "type": "Point"
+      },
+      "id": "ac9157d93ac9da865fd2be172b7a0aea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "30291",
+        "street": "6010 Studio Way",
+        "keywords": "Studio",
+        "city": "Union City",
+        "name": "Atlanta Metro Studios",
+        "phone": "(404) 220-7870",
+        "state": "GA",
+        "type": "Studio",
+        "website": "http://www.atlantametrostudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -84.535146,
+          33.570203
+        ],
+        "type": "Point"
+      },
+      "id": "ae337ca046505fa870d1266f0720100e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91521",
+        "street": "500 S Buena Vista St",
+        "keywords": "Stage",
+        "city": "Burbank",
+        "name": "Walt Disney Studios",
+        "phone": "(818) 560-1000",
+        "state": "CA",
+        "type": "Studio",
+        "website": "http://www.waltdisneystudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.324829,
+          34.156393
+        ],
+        "type": "Point"
+      },
+      "id": "aecba8c29863083a549ed2bc3f4e92d7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "93015",
+        "street": "5164 E Telegraph Rd",
+        "keywords": "Ranch, Museum",
+        "city": "Fillmore",
+        "name": "Rancho Camulos Museum",
+        "phone": "",
+        "state": "CA",
+        "type": "Museum",
+        "website": "http://www.ranchocamulos.org/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.756639,
+          34.405348
+        ],
+        "type": "Point"
+      },
+      "id": "af5a7ad59131aa8dc2bdda7989b40304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90021",
+        "street": "2055 E 7th St",
+        "keywords": "Apartment, Bar",
+        "city": "Los Angeles",
+        "name": "Rendon Hotel",
+        "phone": "",
+        "state": "CA",
+        "type": "Apartment",
+        "website": "https://rendonfilmlocation.com/contact/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.229726,
+          34.034914
+        ],
+        "type": "Point"
+      },
+      "id": "b24442cf71670cbef12591381af2bc73"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90210",
+        "street": "905 Loma Vista Dr",
+        "keywords": "Mansion, Wedding",
+        "city": "Beverly Hills",
+        "name": "Greystone Mansion",
+        "phone": "",
+        "state": "CA",
+        "type": "Mansion",
+        "website": "http://www.beverlyhills.org/departments/communityservices/cityparks/greystonemansiongardens/youreventatgreystone/filmingandphotography/?NFR=1",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.400723,
+          34.092284
+        ],
+        "type": "Point"
+      },
+      "id": "b379c2e06a084a3f3da853c599cb2998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91406",
+        "street": "6825 Valjean Ave",
+        "keywords": "Standings Set, Cyclorama",
+        "city": "Van Nuys",
+        "name": "Cinema Town Studios",
+        "phone": "(310) 989-1000",
+        "state": "CA",
+        "type": "Standing Sets",
+        "website": "https://www.cinematownstudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.486191,
+          34.194711
+        ],
+        "type": "Point"
+      },
+      "id": "b59944b7d33a3724c6f1e414a36cc50b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91342",
+        "street": "13000 Sayre St",
+        "keywords": "Park",
+        "city": "Sylmar",
+        "name": "Veterans Memorial Community Regional Park",
+        "phone": "",
+        "state": "CA",
+        "type": "Park",
+        "website": "http://parks.lacounty.gov/veterans-memorial-community-regional-park",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.416775,
+          34.326293
+        ],
+        "type": "Point"
+      },
+      "id": "b6d7e69a7744d8a8a1a32d6860c5f262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91326",
+        "street": "16100 Browns Canyon Rd",
+        "keywords": "Ranch",
+        "city": "Northridge",
+        "name": "Michael D. Antonovich Regional Park at Joughin Ranch",
+        "phone": "",
+        "state": "CA",
+        "type": "Park",
+        "website": "https://mrca.ca.gov/parks/park-listing/michael-d-antonovich-regional-park-at-joughin-ranch/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.605777,
+          34.307694
+        ],
+        "type": "Point"
+      },
+      "id": "b8034b6528b298585221b423185d33f9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90065",
+        "street": "3061 Treadwell St",
+        "keywords": "Standing Sets, Stage",
+        "city": "Los Angeles",
+        "name": "Riverfront Stages",
+        "phone": "(818) 364-7250",
+        "state": "CA",
+        "type": "Stage",
+        "website": "http://www.riverfrontstages.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.248643,
+          34.120636
+        ],
+        "type": "Point"
+      },
+      "id": "b81c56b09514e5454c0ba165510263b3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90014",
+        "street": "650 S Spring St",
+        "keywords": "Wedding, Venue, Bank, Marble, Granite",
+        "city": "Los Angeles",
+        "name": "The Majestic Downtown",
+        "phone": "(213) 278-7162",
+        "state": "CA",
+        "type": "Event Space",
+        "website": "http://www.themajesticdowntown.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.251782,
+          34.045935
+        ],
+        "type": "Point"
+      },
+      "id": "b920c22969aae691ea703f0e3cae2722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90026",
+        "street": "100 N Toluca St",
+        "keywords": "Park, Trails, Views, Fields",
+        "city": "Los Angeles",
+        "name": "Vista Hermosa Natural Park",
+        "phone": "(213) 250-1100",
+        "state": "CA",
+        "type": "Park",
+        "website": "https://mrca.ca.gov/parks/park-listing/vista-hermosa-natural-park/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.256882,
+          34.061918
+        ],
+        "type": "Point"
+      },
+      "id": "b937ca21da76b10ab909dde609a2c98d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90038",
+        "street": "1136 N Highland Ave",
+        "keywords": "Stage",
+        "city": "Los Angeles",
+        "name": "Siren Studios",
+        "phone": "(323) 467-3559",
+        "state": "CA",
+        "type": "Stage",
+        "website": "https://www.sirenstudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.337941,
+          34.092024
+        ],
+        "type": "Point"
+      },
+      "id": "b94998e903787571694c5619e0dd2b22"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91602",
+        "street": "4042 Lankershim Blvd",
+        "keywords": "Studio",
+        "city": "North Hollywood",
+        "name": "Universal Studios",
+        "phone": "",
+        "state": "CA",
+        "type": "Studio",
+        "website": "http://universalpictures.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.360266,
+          34.142908
+        ],
+        "type": "Point"
+      },
+      "id": "b970d4083889686b3127836a7a1ae99e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90026",
+        "street": "201 N Occidental Blvd",
+        "keywords": "Stage",
+        "city": "Los Angeles",
+        "name": "Occidental Studios",
+        "phone": "(213) 384-3331",
+        "state": "CA",
+        "type": "Stage",
+        "website": "https://occidentalentertainment.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.278037,
+          34.072572
+        ],
+        "type": "Point"
+      },
+      "id": "badb9c835d90b314a2453faad5964f4c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90015",
+        "street": "1024 Santee St Suite 800",
+        "keywords": "Photography",
+        "city": "Los Angeles",
+        "name": "Apex Photo Studios",
+        "phone": "(213) 233-4437",
+        "state": "CA",
+        "type": "Photography Studio",
+        "website": "https://apexphotostudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.255046,
+          34.038509
+        ],
+        "type": "Point"
+      },
+      "id": "bbc69f60af3b14b5c81e3c1be4dd9e3b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90232",
+        "street": "8549 Higuera St",
+        "keywords": "Photography",
+        "city": "Culver City",
+        "name": "Smashbox Studios",
+        "phone": "(310) 579-6000",
+        "state": "CA",
+        "type": "Photography Studio",
+        "website": "http://www.smashboxstudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.381344,
+          34.022723
+        ],
+        "type": "Point"
+      },
+      "id": "bc51fa612a17b8db033f1635104bdc10"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90057",
+        "street": "1908 Beverly Blvd",
+        "keywords": "Standing Sets",
+        "city": "Los Angeles",
+        "name": "Avenida Production Studios",
+        "phone": "(877) 283-3456",
+        "state": "CA",
+        "type": "Standing Sets",
+        "website": "https://avenida.tv/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.268089,
+          34.065601
+        ],
+        "type": "Point"
+      },
+      "id": "bd09690b24ab7600637c302865a22dea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91301",
+        "street": "2903 Cornell Rd",
+        "keywords": "Ranch, Western Town",
+        "city": "Agoura Hills",
+        "name": "Paramount Ranch",
+        "phone": "",
+        "state": "CA",
+        "type": "Ranch",
+        "website": "http://www.nps.gov/samo/planyourvisit/paramountranch.htm",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.754234,
+          34.117173
+        ],
+        "type": "Point"
+      },
+      "id": "bda9529ff074e7d0ff6cbc52841e83ad"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91390",
+        "street": "20019 Blue Cloud Rd",
+        "keywords": "Ranch",
+        "city": "Santa Clarita",
+        "name": "Blue Cloud Movie Ranch",
+        "phone": "(661) 510-6873",
+        "state": "CA",
+        "type": "Ranch",
+        "website": "http://www.bluecloud.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.484871,
+          34.470181
+        ],
+        "type": "Point"
+      },
+      "id": "bf97cfaaca82026447df58b127ea8264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90039",
+        "street": "4585 Electronics Pl",
+        "keywords": "Stage",
+        "city": "Los Angeles",
+        "name": "Quixote Studios - Griffith Park",
+        "phone": "(323) 851-5030",
+        "state": "CA",
+        "type": "Stage",
+        "website": "https://quixote.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.275935,
+          34.145301
+        ],
+        "type": "Point"
+      },
+      "id": "bfbd0332ac5a433381dc619e6a0102e7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91361",
+        "street": "368 E Carlisle Rd",
+        "keywords": "Trails, Ranch, Barn",
+        "city": "Thousand Oaks",
+        "name": "Canyon Ranch",
+        "phone": "(805) 371-0097",
+        "state": "CA",
+        "type": "Ranch",
+        "website": "http://www.canyonranchfilmlocation.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.874979,
+          34.125022
+        ],
+        "type": "Point"
+      },
+      "id": "c0e2f3a6513370a9a9de88bfea53dce5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91504",
+        "street": "2982 N Ontario St",
+        "keywords": "Stages",
+        "city": "Burbank",
+        "name": "Redemption Stages",
+        "phone": "(818) 238-0012",
+        "state": "CA",
+        "type": "Stage",
+        "website": "http://www.redemptionstages.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.343963,
+          34.206479
+        ],
+        "type": "Point"
+      },
+      "id": "c56850dcdbfda3faf8ccaf19f776843f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91352",
+        "street": "8615 Tamarack Ave",
+        "keywords": "Stage",
+        "city": "Sun Valley",
+        "name": "Tamarack Studios",
+        "phone": "",
+        "state": "CA",
+        "type": "Stage",
+        "website": "https://www.facebook.com/pages/Tamarack-Studios/115403475287117",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.384364,
+          34.228093
+        ],
+        "type": "Point"
+      },
+      "id": "c63fc52d4cc505953286fff3ba9b01bf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91402",
+        "street": "13927 Saticoy St",
+        "keywords": "Stage",
+        "city": "Panorama City",
+        "name": "Quixote Studios - Central Valley",
+        "phone": "(323) 851-5030",
+        "state": "CA",
+        "type": "Stage",
+        "website": "https://quixote.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.436181,
+          34.211147
+        ],
+        "type": "Point"
+      },
+      "id": "c71ee0dd3ae577ee181b5bf8226d3199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91301",
+        "street": "30000 Mulholland Hwy",
+        "keywords": "Ranch",
+        "city": "Agoura Hills",
+        "name": "Peter Strauss Ranch",
+        "phone": "",
+        "state": "CA",
+        "type": "Ranch",
+        "website": "https://www.nps.gov/samo/planyourvisit/straussranch.htm",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.778924,
+          34.113655
+        ],
+        "type": "Point"
+      },
+      "id": "cadf1af01931b3831c8f298c59d21922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91331",
+        "street": "12137 Montague St",
+        "keywords": "Stage",
+        "city": "Pacoima",
+        "name": "Quixote Studios - North Valley",
+        "phone": "(323) 851-5030",
+        "state": "CA",
+        "type": "Stage",
+        "website": "https://quixote.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.397571,
+          34.257817
+        ],
+        "type": "Point"
+      },
+      "id": "cc0caf91133e3919b25218e8ee141087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91406",
+        "street": "16829 Saticoy St",
+        "keywords": "Stage",
+        "city": "Van Nuys",
+        "name": "Saticoy Stages",
+        "phone": "(818) 781-3819",
+        "state": "CA",
+        "type": "Stage",
+        "website": "https://raleighstudios.com/saticoy/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.500086,
+          34.208939
+        ],
+        "type": "Point"
+      },
+      "id": "cc3bb60cf199e7c5360171f8b9d60dd3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90065",
+        "street": "2640 Huron St",
+        "keywords": "Wedding",
+        "city": "Los Angeles",
+        "name": "Huron Substation",
+        "phone": "(323) 225-8909",
+        "state": "CA",
+        "type": "Event Space",
+        "website": "http://huronsubstation.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.221831,
+          34.085369
+        ],
+        "type": "Point"
+      },
+      "id": "cc54f3afa56e7dc829ebe11572fad776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90266",
+        "street": "1600 Rosecrans Ave",
+        "keywords": "Studio, Stage",
+        "city": "Manhattan Beach",
+        "name": "MBS Media Campus",
+        "phone": "(310) 727-2700",
+        "state": "CA",
+        "type": "Studio",
+        "website": "http://manhattanbeachstudios.net/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.383401,
+          33.898532
+        ],
+        "type": "Point"
+      },
+      "id": "d2f41839e2e9e6b02a1f84de630e7650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "30316",
+        "street": "1415 Constitution Rd SE",
+        "keywords": "Studio",
+        "city": "Atlanta",
+        "name": "Shadowbox Studios",
+        "phone": "(404) 666-4000",
+        "state": "GA",
+        "type": "Studio",
+        "website": "http://www.shadowboxstudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -84.331882,
+          33.687212
+        ],
+        "type": "Point"
+      },
+      "id": "d37dabae5d76d41eb0418e9e5cd5151e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90004",
+        "street": "312 N Western Ave",
+        "keywords": "Photography",
+        "city": "Los Angeles",
+        "name": "Studio Q",
+        "phone": "(323) 463-4646",
+        "state": "CA",
+        "type": "Photography Studio",
+        "website": "http://studioqlosangeles.com//",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.308596,
+          34.076886
+        ],
+        "type": "Point"
+      },
+      "id": "d425c801150d554523103276a9e1c4e3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90015",
+        "street": "1828 Oak St",
+        "keywords": "Wedding, Rooftop, Views",
+        "city": "Los Angeles",
+        "name": "Casa Vertigo",
+        "phone": "(213) 746-4490",
+        "state": "CA",
+        "type": "Event Space",
+        "website": "http://www.casavertigo.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.277068,
+          34.037273
+        ],
+        "type": "Point"
+      },
+      "id": "d6aad72f260701714f8ddf510dee1233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91390",
+        "street": "9520 Escondido Canyon Rd",
+        "keywords": "Ranch",
+        "city": "Agua Dulce",
+        "name": "6 Guns Film Location",
+        "phone": "(661) 433-0687",
+        "state": "CA",
+        "type": "Ranch",
+        "website": "http://sixgunsfilmlocation.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.299986,
+          34.48832
+        ],
+        "type": "Point"
+      },
+      "id": "d894e71021db8d0004be50df52e95149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91766",
+        "street": "200 E 2nd St",
+        "keywords": "Commercial",
+        "city": "Pomona",
+        "name": "Pomona Antique Mart",
+        "phone": "(909) 623-9835",
+        "state": "CA",
+        "type": "Commercial",
+        "website": "http://www.pomonaantiquemart.com/filming.html",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -117.749309,
+          34.057833
+        ],
+        "type": "Point"
+      },
+      "id": "d9ed1d054e2bbd32b80735a6d4718a2d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90039",
+        "street": "5301 Exchange St",
+        "keywords": "Stages",
+        "city": "Los Angeles",
+        "name": "Affordable Sound Stages",
+        "phone": "(818) 641-0220",
+        "state": "CA",
+        "type": "Stage",
+        "website": "http://affordablesoundstages.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.275521,
+          34.149018
+        ],
+        "type": "Point"
+      },
+      "id": "da5e0df8012d0db03fb01dd9151acd2f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90067",
+        "street": "10201 W Pico Blvd",
+        "keywords": "Stage, New York Street, Studio",
+        "city": "Los Angeles",
+        "name": "Fox Studio Lot",
+        "phone": "",
+        "state": "CA",
+        "type": "Studio",
+        "website": "http://foxstudiolot.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.412281,
+          34.052515
+        ],
+        "type": "Point"
+      },
+      "id": "db87bde4c25696087a3312de0515d9ed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91311",
+        "street": "20525 Nordhoff St",
+        "keywords": "Standing Sets, Stage",
+        "city": "Chatsworth",
+        "name": "Capital Arts",
+        "phone": "(818) 698-6260",
+        "state": "CA",
+        "type": "Stage",
+        "website": "http://capitalarts.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.581158,
+          34.233844
+        ],
+        "type": "Point"
+      },
+      "id": "dd6b3c1a1e457c37d67a116004296aa1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90023",
+        "street": "2556 E Olympic Blvd",
+        "keywords": "Stage",
+        "city": "Los Angeles",
+        "name": "Atomic Studios",
+        "phone": "(323) 851-3825",
+        "state": "CA",
+        "type": "Stage",
+        "website": "http://www.atomicstudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.223211,
+          34.025462
+        ],
+        "type": "Point"
+      },
+      "id": "dd8360e857546450a5abb884529b5104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90031",
+        "street": "670 Moulton Ave #9",
+        "keywords": "Photography Studio, Portraits",
+        "city": "Los Angeles",
+        "name": "Dystopian Studios",
+        "phone": "(310) 503-2365",
+        "state": "CA",
+        "type": "Photography Studio",
+        "website": "http://www.dystopianstudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.219335,
+          34.063907
+        ],
+        "type": "Point"
+      },
+      "id": "e1d54d742b61fba72fe81072d3d325a6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90013",
+        "street": "453 S Spring St",
+        "keywords": "Photography, Standing Sets",
+        "city": "Los Angeles",
+        "name": "The Urban Jungle Studio",
+        "phone": "(310) 736-1121",
+        "state": "CA",
+        "type": "Photography Studio",
+        "website": "https://www.theurbanjunglestudio.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.248848,
+          34.047933
+        ],
+        "type": "Point"
+      },
+      "id": "e4885d0d551c8ff12456cabcd4a2d767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90650",
+        "street": "11951 Imperial Hwy",
+        "keywords": "Ranch",
+        "city": "Norwalk",
+        "name": "Paddison Farm",
+        "phone": "(562) 863-4567",
+        "state": "CA",
+        "type": "Ranch",
+        "website": "http://www.paddisonfarm.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.077313,
+          33.917827
+        ],
+        "type": "Point"
+      },
+      "id": "e4f0c7ad372b7c617153fda9417501d2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91352",
+        "street": "11273 Goss St",
+        "keywords": "Stage",
+        "city": "Sun Valley",
+        "name": "Stage This",
+        "phone": "(818) 726-2240",
+        "state": "CA",
+        "type": "Stage",
+        "website": "http://stagethisla.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.377009,
+          34.223715
+        ],
+        "type": "Point"
+      },
+      "id": "e5104aeb20a27ffcd947894684fb7445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "30310",
+        "street": "315 S Deshler St SW",
+        "keywords": "Studio",
+        "city": "Atlanta",
+        "name": "Tyler Perry Studios",
+        "phone": "",
+        "state": "GA",
+        "type": "Studio",
+        "website": "https://tylerperrystudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -84.432563,
+          33.700636
+        ],
+        "type": "Point"
+      },
+      "id": "e618823bdc506c0490270ee771216430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91105",
+        "street": "99 S Raymond Ave",
+        "keywords": "Wedding, Staircase",
+        "city": "Pasadena",
+        "name": "Castle Green",
+        "phone": "(626) 793-0359",
+        "state": "CA",
+        "type": "Event Space",
+        "website": "http://castlegreen.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.148806,
+          34.144068
+        ],
+        "type": "Point"
+      },
+      "id": "e7004e4a915da0171dd7aa8e64cc15d3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90007",
+        "street": "1933 S Broadway",
+        "keywords": "Fashion, Commercial",
+        "city": "Los Angeles",
+        "name": "LA Mart / Reef",
+        "phone": "(213) 763-5800",
+        "state": "CA",
+        "type": "Event Space",
+        "website": "http://www.lamart.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.266592,
+          34.031557
+        ],
+        "type": "Point"
+      },
+      "id": "e7282121d2c91c0b9b2c9245a7733f12"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90038",
+        "street": "855 N Cahuenga Blvd",
+        "keywords": "Photography",
+        "city": "Los Angeles",
+        "name": "Milk Studios Los Angeles",
+        "phone": "(323) 469-8900",
+        "state": "CA",
+        "type": "Photography Studio",
+        "website": "http://www.milkstudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.329072,
+          34.0872
+        ],
+        "type": "Point"
+      },
+      "id": "e749ab03ed622697dcb63c7f08c745be"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91754",
+        "street": "1301 Avenia Cesar Chavez",
+        "keywords": "College",
+        "city": "Monterey Park",
+        "name": "East Los Angeles Community College",
+        "phone": "",
+        "state": "CA",
+        "type": "School",
+        "website": "https://www.elac.edu/offices/admin-services/facility-rentals",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.150171,
+          34.041514
+        ],
+        "type": "Point"
+      },
+      "id": "ea07e874afba0304398a0671eb210647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90232",
+        "street": "3737 S Robertson Blvd",
+        "keywords": "Kitchen Standing Sets",
+        "city": "Culver City",
+        "name": "Steez Studios",
+        "phone": "(310) 560-6564",
+        "state": "CA",
+        "type": "Standing Sets",
+        "website": "https://www.steezstudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.389971,
+          34.027083
+        ],
+        "type": "Point"
+      },
+      "id": "ec7535b4485c550a4865a9ddd1f63ec2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "93535",
+        "street": "42848 150th St E",
+        "keywords": "Ranch",
+        "city": "Lancaster",
+        "name": "Club Ed",
+        "phone": "(661) 946-1515",
+        "state": "CA",
+        "type": "Ranch",
+        "website": "http://www.avlocations.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -117.861873,
+          34.662215
+        ],
+        "type": "Point"
+      },
+      "id": "ed62468b1f97c0237423674a01b45d00"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90013",
+        "street": "544 Mateo St",
+        "keywords": "Warehouse, Office, Brick, Views",
+        "city": "Los Angeles",
+        "name": "Nate Starkman Building",
+        "phone": "",
+        "state": "CA",
+        "type": "Warehouse",
+        "website": "http://natestarkmanbuilding.com/index.html",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.232644,
+          34.04052
+        ],
+        "type": "Point"
+      },
+      "id": "eebd58ce01cdb5df476e3c258a927c1f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91505",
+        "street": "3772 W Olive Ave",
+        "keywords": "Sound Stage, New York Street, NY Street, Midwest Town",
+        "city": "Burbank",
+        "name": "Warner Bros. Studios",
+        "phone": "(818) 954-6777        ",
+        "state": "CA",
+        "type": "Studio",
+        "website": "https://studiooperations.warnerbros.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.341567,
+          34.14746
+        ],
+        "type": "Point"
+      },
+      "id": "f0db785b8ec2cfec0eec1acf67781e13"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91342",
+        "street": "15751 Roxford St A",
+        "keywords": "Standing sets",
+        "city": "Sylmar",
+        "name": "4 Hearts Studios",
+        "phone": "(818) 605-9965",
+        "state": "CA",
+        "type": "Standing Sets",
+        "website": "http://www.4heartsstudios.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.474839,
+          34.308543
+        ],
+        "type": "Point"
+      },
+      "id": "f22b9e8aa939ec5adff49e2a19032375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90255",
+        "street": "5610 S Soto St",
+        "keywords": "Warehouse, Industrial, Art Deco, Office",
+        "city": "Huntington Park",
+        "name": "The Escarpment",
+        "phone": "(323) 583-8155",
+        "state": "CA",
+        "type": "Stage",
+        "website": "http://5610soto.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.219141,
+          33.991257
+        ],
+        "type": "Point"
+      },
+      "id": "f32d4afec85a74488ba1b9f32cf60e1d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91352",
+        "street": "8455 La Tuna Canyon Rd",
+        "keywords": "Standing Sets, Apartment",
+        "city": "Sun Valley",
+        "name": "The Villa Serena",
+        "phone": "(818) 641-7001",
+        "state": "CA",
+        "type": "Standing Sets",
+        "website": "https://www.thevillaserena.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.317358,
+          34.236824
+        ],
+        "type": "Point"
+      },
+      "id": "f6243b4aa05069bdaa133e36b0f90052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90046",
+        "street": "1824 N Curson Ave",
+        "keywords": "Park, Mansion, Wedding",
+        "city": "Los Angeles",
+        "name": "Wattles Mansion and Garden Park",
+        "phone": "",
+        "state": "CA",
+        "type": "Mansion",
+        "website": "https://www.laparks.org/historic/wattles-mansion-and-gardens",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.354331,
+          34.104378
+        ],
+        "type": "Point"
+      },
+      "id": "f74fac68d11f689dacd2cd2a068144bc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90038",
+        "street": "800 Seward St",
+        "keywords": "Stage",
+        "city": "Los Angeles",
+        "name": "Line 204 Studioes",
+        "phone": "(323) 960-0113",
+        "state": "CA",
+        "type": "Stage",
+        "website": "https://line204.com/stages/south/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.332399,
+          34.085559
+        ],
+        "type": "Point"
+      },
+      "id": "fa6cc0f48d358fc272665c9d14ceda02"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "91504",
+        "street": "2015 N Lincoln St",
+        "keywords": "Standing Sets, Stage",
+        "city": "Burbank",
+        "name": "Nvisionate",
+        "phone": "(844) 345-6788",
+        "state": "CA",
+        "type": "Standing Sets",
+        "website": "http://www.nvisionate.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.33546,
+          34.192516
+        ],
+        "type": "Point"
+      },
+      "id": "fda24aa10210e4c360a4b849fa74a60c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zip": "90021",
+        "street": "613 Imperial St",
+        "keywords": "Wedding",
+        "city": "Los Angeles",
+        "name": "Lot 613",
+        "phone": "(323) 464-7300",
+        "state": "CA",
+        "type": "Event Space",
+        "website": "http://www.lot613.com/",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -118.231387,
+          34.037741
+        ],
+        "type": "Point"
+      },
+      "id": "ffac18af39dd5d28735cbe8fb5294f3d"
+    }
+  ],
+  "type": "FeatureCollection"
+}
