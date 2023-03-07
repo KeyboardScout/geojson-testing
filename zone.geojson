@@ -1,0 +1,18 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "properties": {
+            "shape": "Circle",
+            "radius": 48344.694,
+            "name": "Zone",
+            "category": "default"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-118.37661700000001, 34.07604329999999]
+        },
+        "id": "d2b68d57-fba7-4b20-8723-76ccd521e239"
+    },
+]
+}
